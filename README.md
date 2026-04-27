@@ -48,7 +48,7 @@ Os exemplos de chamadas estão comentados no código e podem ser ativados confor
 
 
 
-codigo postgreeSQL para criação da tabela?:
+codigo postgreeSQL para criação da tabela:
 
 create table clientes(
   id serial primary key,
